@@ -149,6 +149,10 @@ ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Octopus_2.0\Design Rule Check - octopus_pcb.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=CheckedBy
 Value=Карманов С.
