@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\andrey\Documents\Altium\Octopus_2.0\octopus_pcb.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=octopus_pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=octopus_pcb-slotholes.txt|DrillLayers=gtl,gbl
